@@ -1,0 +1,8 @@
+{
+  "port": 5000,
+  "jwtSecret": "maksim mern task",
+  "mongoUri": "mongodb+srv://Maksim:2wsx@WSX@cluster0.xchxp.azure.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "sendGridApiKey": "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",
+  "emailFrom": "mgandronov2017@gmail.com",
+  "baseUrl": "http://localhost:3000"
+}
